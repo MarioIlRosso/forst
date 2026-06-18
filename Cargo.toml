@@ -1,0 +1,2 @@
+[workspace]
+members = ["forst-core", "forst-cli", "forst-config"]

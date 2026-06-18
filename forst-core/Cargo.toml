@@ -1,0 +1,8 @@
+[package]
+name = "forst-core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.102"
+forst-config = { version = "0.1.0", path = "../forst-config" }
