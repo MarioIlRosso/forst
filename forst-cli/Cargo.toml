@@ -8,3 +8,7 @@ anyhow = "1.0.102"
 clap = { version = "4.6.1", features = ["derive"] }
 forst-config = { version = "0.1.0", path = "../forst-config" }
 forst-core = { version = "0.1.0", path = "../forst-core" }
+
+[[bin]]
+name = "forst"
+path = "src/main.rs"
