@@ -1,4 +1,0 @@
-[workspace]
-members = ["forst-core", "forst-cli", "forst-config"]
-default-members = ["cli-tool"]
-resolver = "3"

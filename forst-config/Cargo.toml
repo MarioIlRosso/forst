@@ -1,7 +1,0 @@
-[package]
-name = "forst-config"
-version = "0.1.0"
-edition = "2024"
-description = "config functionality of forst"
-license = "MIT"
-repository = "https://github.com/GennaroBiondi/forst"
